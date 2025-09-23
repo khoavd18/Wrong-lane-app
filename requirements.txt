@@ -1,0 +1,4 @@
+ultralytics>=8.3.0,<9
+opencv-python>=4.8
+numpy>=1.23
+torch>=2.0
